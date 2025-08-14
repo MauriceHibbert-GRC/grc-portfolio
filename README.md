@@ -1,12 +1,6 @@
 # Maurice Hibbert — IT Audit & GRC Portfolio
 
-**CISA-passed early-career analyst** building practical, job-style projects in:
-- IT risk assessment & reporting
-- Control testing & documentation
-- Vendor risk management
-- Incident response playbooks
-
-This portfolio is designed to bridge the gap between **certification and real-world practice**, showcasing my ability to deliver clear, structured, and professional governance, risk, and compliance (GRC) work.
+> CISA-passed early-career IT Auditor & Risk Analyst delivering practical GRC projects that demonstrate job-ready skills.
 
 ---
 
@@ -20,11 +14,12 @@ This portfolio is designed to bridge the gap between **certification and real-wo
 ---
 
 ## 👤 About Me
-I’m Maurice Hibbert, a CISA-passed aspiring **IT Auditor / Risk Analyst** based in Jamaica.  
-I have a strong interest in governance, risk, and compliance work, and I’m building this portfolio to demonstrate job-ready skills for entry-level audit and risk roles.  
+I’m Maurice Hibbert, a CISA-passed early-career **IT Auditor / Risk Analyst** based in Jamaica. My focus is on turning governance, risk, and compliance principles into **clear, actionable deliverables** — from risk registers and control tests to executive-ready summaries.  
 
-**LinkedIn:** [linkedin.com/in/mauriceshibbert/](#)  
-**Email:** hibbertmaurice@gmail.com  
+I built this portfolio to demonstrate the same structured, detail-oriented work I would bring to an entry-level audit or risk role, while showing how I communicate findings for both technical and non-technical audiences.
+
+**LinkedIn:** [linkedin.com/in/YOUR-LINK](#)  
+**Email:** your@email.com  
 
 ---
 
