@@ -23,7 +23,7 @@ This portfolio is designed to bridge the gap between **certification and real-wo
 I’m Maurice Hibbert, a CISA-passed aspiring **IT Auditor / Risk Analyst** based in Jamaica.  
 I have a strong interest in governance, risk, and compliance work, and I’m building this portfolio to demonstrate job-ready skills for entry-level audit and risk roles.  
 
-**LinkedIn:** [https://www.linkedin.com/in/mauriceshibbert](#)  
+**LinkedIn:** [linkedin.com/in/mauriceshibbert/](#)  
 **Email:** hibbertmaurice@gmail.com  
 
 ---
