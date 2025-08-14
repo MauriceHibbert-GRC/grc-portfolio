@@ -18,8 +18,8 @@ I’m Maurice Hibbert, a CISA-passed early-career **IT Auditor / Risk Analyst** 
 
 I built this portfolio to demonstrate the same structured, detail-oriented work I would bring to an entry-level audit or risk role, while showing how I communicate findings for both technical and non-technical audiences.
 
-**LinkedIn:** [linkedin.com/in/YOUR-LINK](#)  
-**Email:** your@email.com  
+**LinkedIn:** [linkedin.com/in/mauriceshibbert](#)  
+**Email:** hibbertmaurice@gmail.com  
 
 ---
 
