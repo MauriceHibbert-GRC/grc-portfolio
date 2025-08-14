@@ -32,4 +32,4 @@ I built this portfolio to demonstrate the same structured, detail-oriented work 
 
 ---
 
-*This portfolio will continue to grow with new projects demonstrating my skills across IT audit, risk management, and compliance.*
+*This portfolio will continue to grow with new projects demonstrating my skills across IT audit, governance, risk management, and compliance.*
