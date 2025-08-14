@@ -1,6 +1,0 @@
-﻿Risk ID,Asset,Threat,"Vulnerability	","Impact (1–5)	",Likelihood (1–5),"Risk Score	","Recommended Control	"
-R-001,Patient Database,Unauthorized access,"Weak password policy	",5,4,20,"Enforce MFA, implement strong password rules, quarterly access review"
-R-002,Clinic Wi-Fi,Data interception,Unencrypted network traffic,4,3,12,"Enable WPA3 encryption, network segmentation"
-R-003,Cloud Storage,Data loss,No backup policy,5,2,10,Implement daily automated backups to secure offsite location
-R-004,Staff Laptops,Malware infection,No endpoint protection,3,3,9,"Deploy antivirus/EDR, user awareness training"
-R-005,Patient Portal,Phishing attack,No user training,4,2,8,"Create patient awareness emails, enable phishing detection filters"
