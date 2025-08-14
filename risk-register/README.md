@@ -1,23 +1,44 @@
-# Mini Risk Register – Healthcare Clinic Example
+# Mini Risk Register — Healthcare Clinic
 
-This is a mock project to demonstrate risk assessment skills for a GRC role.
+**Skills Demonstrated:**  
+- IT risk identification & documentation  
+- Likelihood/impact scoring using a 5×5 matrix  
+- Creating visual risk heat maps for management reporting  
+- Translating technical risk data into plain-English executive summaries  
 
-## Scenario
-A small healthcare clinic in Kingston uses an online patient-records system hosted in the cloud. I identified key assets, possible threats, and vulnerabilities, then scored risks using a 5x5 matrix. Finally, I recommended controls to reduce high-priority risks.
+---
 
-## Skills Demonstrated
-- Identifying and documenting IT risks
-- Using likelihood/impact scoring
-- Creating executive summaries for non-technical stakeholders
-- Presenting findings in both technical (CSV) and visual (heat map) formats
+## 📄 Project Overview
+This project is a mock risk assessment for a small healthcare clinic in Kingston that uses an online patient-record system hosted in the cloud.  
 
-## How to View This Project
-To get the most out of this example project:
-1. **Start with `executive_summary.md`** – quick, plain-English overview of top risks and recommendations.
-2. **Open `risk_register.csv`** – detailed list of risks, vulnerabilities, scores, and recommended controls.
-3. **View `heatmap.png`** – visual 5x5 risk matrix showing where each risk falls.
+The objective was to identify key assets, evaluate potential threats and vulnerabilities, assign risk scores, and recommend practical controls.  
+The final deliverables are presented in both technical (CSV, heat map) and non-technical (executive summary) formats.
 
-## Files
-- `risk_register.csv` – The full table of risks and recommended controls
-- `heatmap.png` – Visual risk heat map
-- `executive_summary.md` – Top risks explained for management
+---
+
+## 🛠 Methodology
+1. **Asset identification** – patient database, clinic Wi-Fi, cloud storage, staff laptops, patient portal.  
+2. **Threat & vulnerability mapping** – examples include weak password policy, unencrypted Wi-Fi, and no backup policy.  
+3. **Scoring** – assigned Impact and Likelihood on a scale of 1–5, calculated Risk Score = Impact × Likelihood.  
+4. **Prioritization** – risks sorted by highest scores to identify immediate priorities.  
+5. **Control recommendations** – MFA, WPA3 encryption, automated backups, phishing awareness training.
+
+---
+
+## 📂 Project Files
+- [Executive Summary](executive_summary.md) — Plain-English overview for management.
+- [Risk Register (CSV)](risk_register.csv) — Full list of risks, scores, and recommended controls.
+- [Risk Heat Map (PNG)](heatmap.png) — Visual representation of risk levels.
+
+---
+
+## 💡 Key Takeaways
+- High-scoring risks (e.g., unauthorized access to patient database) require immediate attention through strong access controls and MFA.  
+- Even low-likelihood risks (e.g., no backup policy) can have critical impact and must be addressed.  
+- Visual tools like heat maps improve stakeholder understanding of risk priorities.
+
+---
+
+*This is part of my ongoing IT Audit & GRC portfolio. View the full portfolio here:*  
+[**Back to Portfolio Home →**](../)
+
