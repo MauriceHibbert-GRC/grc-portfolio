@@ -17,16 +17,6 @@ To get the most out of this example project:
 2. **Open `risk_register.csv`** – detailed list of risks, vulnerabilities, scores, and recommended controls.
 3. **View `heatmap.png`** – visual 5x5 risk matrix showing where each risk falls.
 
-## About Me
-I’m Maurice Hibbert, a CISA-passed aspiring GRC Analyst based in Jamaica.  
-I’m building this portfolio to showcase practical skills in:
-- Risk assessment
-- Control testing
-- Vendor risk management
-- Incident response planning
-
-My goal is to bring both analytical thinking and clear communication to a junior GRC role, where I can contribute to building stronger governance, risk, and compliance practices.
-
 ## Files
 - `risk_register.csv` – The full table of risks and recommended controls
 - `heatmap.png` – Visual risk heat map
