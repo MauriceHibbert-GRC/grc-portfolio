@@ -1,23 +1,40 @@
-# Mini Risk Register – Healthcare Clinic Example
+# Maurice Hibbert — IT Audit & GRC Portfolio
 
-This is a mock project to demonstrate risk assessment skills for a GRC role.
+**CISA-passed early-career analyst** building practical, job-style projects in:
+- IT risk assessment & reporting
+- Control testing & documentation
+- Vendor risk management
+- Incident response playbooks
 
-## Scenario
-A small healthcare clinic in Kingston uses an online patient-records system hosted in the cloud. I identified key assets, possible threats, and vulnerabilities, then scored risks using a 5x5 matrix. Finally, I recommended controls to reduce high-priority risks.
+This portfolio is designed to bridge the gap between **certification and real-world practice**, showcasing my ability to deliver clear, structured, and professional governance, risk, and compliance (GRC) work.
 
-## Skills Demonstrated
-- Identifying and documenting IT risks
-- Using likelihood/impact scoring
-- Creating executive summaries for non-technical stakeholders
-- Presenting findings in both technical (CSV) and visual (heat map) formats
+---
 
-## How to View This Project
-To get the most out of this example project:
-1. **Start with `executive_summary.md`** – quick, plain-English overview of top risks and recommendations.
-2. **Open `risk_register.csv`** – detailed list of risks, vulnerabilities, scores, and recommended controls.
-3. **View `heatmap.png`** – visual 5x5 risk matrix showing where each risk falls.
+## 📂 Projects
 
-## Files
-- `risk_register.csv` – The full table of risks and recommended controls
-- `heatmap.png` – Visual risk heat map
-- `executive_summary.md` – Top risks explained for management
+### 1) Mini Risk Register — Healthcare Clinic
+**Skills:** Risk identification, 5×5 scoring, executive communication  
+**Description:** Created a mock risk register for a small healthcare clinic using an online patient-record system. Risks were scored using a 5×5 matrix and presented with both a visual heat map and a management-ready summary.  
+[**View Project Folder →**](risk-register)
+
+---
+
+## 👤 About Me
+I’m Maurice Hibbert, a CISA-passed aspiring **IT Auditor / Risk Analyst** based in Jamaica.  
+I have a strong interest in governance, risk, and compliance work, and I’m building this portfolio to demonstrate job-ready skills for entry-level audit and risk roles.  
+
+**LinkedIn:** [linkedin.com/in/YOUR-LINK](#)  
+**Email:** your@email.com  
+
+---
+
+## 🗂 How to Navigate
+- Click the **project folder** to open its README and supporting files.
+- Each project includes:
+  - A plain-English executive summary
+  - Detailed technical documentation
+  - Any visuals or evidence files
+
+---
+
+*This portfolio will continue to grow with new projects demonstrating my skills across IT audit, risk management, and compliance.*
