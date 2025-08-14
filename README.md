@@ -1,2 +1,16 @@
-# grc-portfolio
-Example GRC analyst projects – risk register, control checklists, vendor reviews
+# Mini Risk Register – Healthcare Clinic Example
+
+This is a mock project to demonstrate risk assessment skills for a GRC role.
+
+**Scenario:**  
+A small healthcare clinic in Kingston uses an online patient-records system hosted in the cloud. I identified key assets, possible threats, and vulnerabilities, then scored risks using a 5x5 matrix. Finally, I recommended controls to reduce high-priority risks.
+
+**Skills Demonstrated:**
+- Identifying and documenting IT risks
+- Using likelihood/impact scoring
+- Creating executive summaries for non-technical stakeholders
+
+**Files:**
+- `risk_register.csv` – The full table of risks and recommended controls
+- `heatmap.png` – Visual risk heat map
+- `executive_summary.md` – Top risks explained for management
