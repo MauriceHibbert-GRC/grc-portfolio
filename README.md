@@ -2,15 +2,32 @@
 
 This is a mock project to demonstrate risk assessment skills for a GRC role.
 
-**Scenario:**  
+## Scenario
 A small healthcare clinic in Kingston uses an online patient-records system hosted in the cloud. I identified key assets, possible threats, and vulnerabilities, then scored risks using a 5x5 matrix. Finally, I recommended controls to reduce high-priority risks.
 
-**Skills Demonstrated:**
+## Skills Demonstrated
 - Identifying and documenting IT risks
 - Using likelihood/impact scoring
 - Creating executive summaries for non-technical stakeholders
+- Presenting findings in both technical (CSV) and visual (heat map) formats
 
-**Files:**
+## How to View This Project
+To get the most out of this example project:
+1. **Start with `executive_summary.md`** – quick, plain-English overview of top risks and recommendations.
+2. **Open `risk_register.csv`** – detailed list of risks, vulnerabilities, scores, and recommended controls.
+3. **View `heatmap.png`** – visual 5x5 risk matrix showing where each risk falls.
+
+## About Me
+I’m Maurice Hibbert, a CISA-passed aspiring GRC Analyst based in Jamaica.  
+I’m building this portfolio to showcase practical skills in:
+- Risk assessment
+- Control testing
+- Vendor risk management
+- Incident response planning
+
+My goal is to bring both analytical thinking and clear communication to a junior GRC role, where I can contribute to building stronger governance, risk, and compliance practices.
+
+## Files
 - `risk_register.csv` – The full table of risks and recommended controls
 - `heatmap.png` – Visual risk heat map
 - `executive_summary.md` – Top risks explained for management
