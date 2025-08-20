@@ -1,0 +1,3 @@
+Passwords must be 12+ characters
+Root login must be disabled
+Logs must be kept 30+ days
