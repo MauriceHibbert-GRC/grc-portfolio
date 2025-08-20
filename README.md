@@ -13,6 +13,13 @@
 
 ---
 
+### 2) Secure Configuration & Baseline Drift — Server Audit
+**Skills:** Control testing, baseline compliance, audit reporting  
+**Description:** Simulated an IT audit of Linux servers by defining a baseline security policy (password rules, root login, log retention) and comparing it against two sample servers. Produced a report highlighting High and Medium risk findings, with actionable remediation recommendations.  
+[**View Project Folder →**](config-baseline)
+
+---
+
 ## 👤 About Me
 I’m Maurice Hibbert, a CISA-passed early-career **IT Auditor / Risk Analyst** based in Jamaica. My focus is on turning governance, risk, and compliance principles into **clear, actionable deliverables** — from risk registers and control tests to executive-ready summaries.  
 
