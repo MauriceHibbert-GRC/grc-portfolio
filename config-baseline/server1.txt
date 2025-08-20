@@ -1,0 +1,3 @@
+Password length: 12
+Root login: NO
+Logs: 21 days
