@@ -1,0 +1,3 @@
+Password length: 8
+Root login: YES
+Logs: 0 days
