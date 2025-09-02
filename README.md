@@ -20,6 +20,13 @@
 
 ---
 
+### 3) P2P SOX Readiness — MedTech (PwC Simulation)
+**Skills:** SOX mapping, ITGC, P2P process controls, executive communication  
+**Description:** Completed a PwC Forage Cybersecurity job simulation. Reviewed a healthcare startup’s Procure-to-Pay SOP ahead of IPO, identified key SOX-related control gaps (e.g., missing approvals, weak segregation of duties, shared credentials), mapped them to SOX principles and ITGC categories, and delivered PwC-style recommendations with a client-ready summary table and email.  
+[**View Project Folder →**](p2p-sox-assessment)
+
+---
+
 ## 👤 About Me
 I’m Maurice Hibbert, a CISA-passed early-career **IT Auditor / Risk Analyst** based in Jamaica. My focus is on turning governance, risk, and compliance principles into **clear, actionable deliverables** — from risk registers and control tests to executive-ready summaries.  
 
@@ -36,6 +43,11 @@ I built this portfolio to demonstrate the same structured, detail-oriented work 
   - A plain-English executive summary
   - Detailed technical documentation
   - Any visuals or evidence files
+
+---
+
+*This portfolio will continue to grow with new projects demonstrating my skills across IT audit, governance, risk management, and compliance.*
+
 
 ---
 
