@@ -19,16 +19,15 @@ The goal: connect **hands-on system administration** with **governance, risk, an
 ---
 
 ## 📂 Project Structure
-
-
+```plaintext
 linux-baseline-audit/
 ├── README.md
 ├── evidence/
-│ ├── autoremove-log.txt
-│ ├── kernel-version-log.txt
-│ └── lynis-report.txt
+│   ├── autoremove-log.txt
+│   ├── kernel-version-log.txt
+│   └── lynis-report.txt
 └── docs/
-└── findings.md
+    └── findings.md
 ---
 
 ## 🔎 Key Findings
