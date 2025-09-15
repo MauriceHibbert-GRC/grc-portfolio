@@ -21,4 +21,4 @@
 - Privileged access via verbal approval → No evidence of authorization
 - Access requests via email → Weak provisioning & least-privilege
 
-👉 See: `02_Findings/Findings_Table.md` and `02_Findings/Email_Summary_to_Senior.md`
+See: `02_Findings/Findings_Table.md` and `02_Findings/Email_Summary_to_Senior.md`
