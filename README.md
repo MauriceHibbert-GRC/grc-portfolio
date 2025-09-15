@@ -37,7 +37,7 @@
 ## 👤 About Me  
 I’m Maurice Hibbert, a CISA-passed early-career **IT Auditor / Risk Analyst** based in Jamaica, building a career at the intersection of **governance and technical execution**.  
 
-My portfolio demonstrates how I bridge the gap between **audit frameworks** and **hands-on engineering** ; from creating risk registers and SOX assessments to standing up Linux servers in AWS, running compliance baselines with Lynis, and collecting system evidence for audit trails.  
+My portfolio demonstrates how I bridge the gap between **audit frameworks** and **hands-on engineering**; from creating risk registers and SOX assessments to standing up Linux servers in AWS, running compliance baselines with Lynis, and collecting system evidence for audit trails.  
 
 I specialize in translating technical findings into **clear, actionable risk insights** for executives while maintaining the rigor of IT controls testing and GRC best practices.  
 
