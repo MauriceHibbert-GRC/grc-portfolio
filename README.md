@@ -21,8 +21,8 @@
 ---
 
 ### 3) Linux Baseline Compliance Audit (AWS EC2 Lab)  
-**Skills:** AWS EC2 provisioning, SSH hardening, patch management, Lynis audit, evidence collection, GRC interpretation  
-**Description:** Deployed a secure Ubuntu instance in AWS Free Tier, enforced key-based SSH access, applied system patches, and executed a full baseline compliance scan using Lynis. Collected audit logs and kernel evidence, then documented key findings (e.g., root login enabled, weak password policy, missing firewall rules) with remediation steps. Demonstrates the connection between **technical system hardening** and **governance controls** like patch management, IAM, and baseline configuration testing.  
+**Skills:** AWS EC2 provisioning, SSH hardening, patch management, Linux audit, evidence collection, GRC interpretation  
+**Description:** Deployed a secure Ubuntu instance in AWS Free Tier, enforced key-based SSH access, applied system patches, and executed a full baseline compliance scan using Linux. Collected audit logs and kernel evidence, then documented key findings (e.g., root login enabled, weak password policy, missing firewall rules) with remediation steps. Demonstrates the connection between **technical system hardening** and **governance controls** like patch management, IAM, and baseline configuration testing.  
 [**View Project Folder →**](linux-baseline-audit)  
 
 ---
